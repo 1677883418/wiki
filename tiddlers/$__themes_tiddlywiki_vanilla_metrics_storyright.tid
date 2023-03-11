@@ -1,0 +1,8 @@
+created: 20230310171948252
+creator: fatSheep
+modified: 20230310171948252
+modifier: fatSheep
+title: $:/themes/tiddlywiki/vanilla/metrics/storyright
+type: text/vnd.tiddlywiki
+
+calc({{$:/xp/leftopentab/metrics/storyright}} + {{$:/themes/tiddlywiki/vanilla/metrics/storyleft}})
