@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 created: 20230310171749966
 creator: fatSheep
 modified: 20230310171749966
@@ -6,3 +7,11 @@ title: $:/DefaultTiddlers
 type: text/vnd.tiddlywiki
 
 [list[$:/StoryList]]
+=======
+created: 20230104152418790
+modified: 20230104152419683
+title: $:/DefaultTiddlers
+type: text/vnd.tiddlywiki
+
+Index GettingStarted
+>>>>>>> bfb77b6 (Commit with Git-Sync-JS)

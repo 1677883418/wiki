@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # wiki
 =======
+=======
+>>>>>>> bfb77b6 (Commit with Git-Sync-JS)
 # Tiddlywiki-NodeJS-Github-Template
 
 Default wiki template for [TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop), an App that can generate template wiki on one-click.
@@ -34,4 +37,7 @@ Automatically.
 ## Credit
 
 Scripts are inspired by [DiamondYuan/wiki](https://github.com/DiamondYuan/wiki)
+<<<<<<< HEAD
 >>>>>>> cf7de94 (Commit with Git-Sync-JS)
+=======
+>>>>>>> bfb77b6 (Commit with Git-Sync-JS)

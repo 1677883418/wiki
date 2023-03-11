@@ -7,4 +7,8 @@ name: Whiteboard
 plugin-type: plugin
 title: $:/plugins/linonetwo/tw-whiteboard
 type: application/json
+<<<<<<< HEAD
 version: 0.3.3
+=======
+version: 0.3.4
+>>>>>>> bfb77b6 (Commit with Git-Sync-JS)
