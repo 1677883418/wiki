@@ -1,0 +1,10 @@
+author: oflg
+core-version: >=5.2.1
+description: 学习包
+list: readme
+name: 四级真题核心词（图片记忆）
+plugin-type: plugin
+source: https://github.com/oflg/fishing-cannedfish
+title: $:/plugins/oflg/fishing-cannedfish-CET4luan_1
+type: application/json
+version: 0.0.8
