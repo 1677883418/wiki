@@ -1,8 +1,8 @@
 created: 20230310171948252
 creator: fatSheep
-modified: 20230311165539114
+modified: 20230311170050527
 modifier: fatSheep
 title: $:/themes/tiddlywiki/vanilla/metrics/storyleft
 type: text/vnd.tiddlywiki
 
-<$text text={{$:/xp/leftopentab/metrics/storyleft}}/>
+calc({{$:/xp/leftopentab/metrics/width}} + {{$:/xp/leftopentab/metrics/storyleft}} - {{$:/xp/leftopentab/metrics/storyriverpaddingleft}})
