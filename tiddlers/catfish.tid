@@ -2,7 +2,7 @@ caption: a software
 color: 
 created: 20230312164727614
 description: Linux下比较好用的文件搜索工具
-modified: 20230312171540279
+modified: 20230312172142066
 moscow: S
 purpose: 文件搜索
 tags: Software [[Should have]] Linux 系统
@@ -10,8 +10,10 @@ title: catfish
 tmap.id: 9a4e157a-3237-40aa-8e50-6f62672e0a87
 type: text/vnd.tiddlywiki
 url: 
+wysiwyg: yes
 
-{{!!description}}
+{{undefined}}
+
 * 缺点:
 ** (需要提前updatedb更新数据库才可用)
 ** 实测搜索速度较慢(没有everything效果那么明显)

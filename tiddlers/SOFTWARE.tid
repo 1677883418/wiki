@@ -1,8 +1,8 @@
 caption: {{$:/xp/images/programs}} SOFTWARE
 color: #bbb
 created: 20230312162645166
-icon: $:/xp/images/programs
-modified: 20230312162647022
+icon: 
+modified: 20230312172514864
 title: SOFTWARE
 tmap.id: 3fbb6a21-23c1-43fd-971c-a38e4a019f58
 type: text/vnd.tiddlywiki
