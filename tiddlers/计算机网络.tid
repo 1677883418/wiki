@@ -1,9 +1,14 @@
 created: 20230312143733694
-modified: 20230312144206930
-tags: 计算机网络 考研
+modified: 20230312161235163
+tags: 计算机网络 考研408
 title: 计算机网络
 tmap.id: 11fabf25-cfb3-4d83-b842-c6a217d02bd7
 type: text/vnd.tiddlywiki
 
 ! 计算机网络
-asdasdasdsa
+* [[计算机网络体系结构]]
+* [[物理层]]
+* [[数据链路层]]
+* [[网络层]]
+* [[传输层]]
+* [[应用层]]

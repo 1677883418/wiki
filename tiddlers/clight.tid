@@ -1,0 +1,16 @@
+caption: a software
+color: 
+created: 20230312165739398
+description: Linux下自动管理屏幕亮度
+modified: 20230312170351447
+moscow: S
+purpose: 亮度管理
+tags: Software [[Should have]] Linux 系统
+title: clight
+tmap.id: c7d95014-6d04-498a-b196-cc81de248774
+type: text/vnd.tiddlywiki
+url: https://github.com/FedeDP/Clight
+
+{{!!description}}
+
+
