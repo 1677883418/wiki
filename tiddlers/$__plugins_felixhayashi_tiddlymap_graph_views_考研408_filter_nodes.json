@@ -1,0 +1,8 @@
+[
+    {
+        "title": "$:/plugins/felixhayashi/tiddlymap/graph/views/考研408/filter/nodes",
+        "text": "",
+        "type": "text/vnd.tiddlywiki",
+        "filter": " [field:tmap.id[989b2773-1aef-4471-b795-0576d8a75c65]] [field:tmap.id[11fabf25-cfb3-4d83-b842-c6a217d02bd7]]"
+    }
+]

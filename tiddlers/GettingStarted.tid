@@ -2,6 +2,7 @@ created: 20230309041455415
 icon: 🦁
 modified: 20230309041502127
 title: GettingStarted
+tmap.id: 3b18363b-db55-4d1a-aafe-37ebff3fc196
 type: text/vnd.tiddlywiki
 
 \define lingo-base() $:/language/ControlPanel/Basics/
