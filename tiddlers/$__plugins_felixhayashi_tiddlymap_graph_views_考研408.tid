@@ -1,8 +1,8 @@
-config.neighbourhood_directions: out
+config.neighbourhood_directions: in
 config.neighbourhood_scope: 2
 created: 20230312154359665
 id: 3f4a05ff-4442-46a3-9e76-dcc30439f318
 isview: true
-modified: 20230312154405130
+modified: 20230314164657079
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/考研408
 type: text/vnd.tiddlywiki
