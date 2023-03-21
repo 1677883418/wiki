@@ -7,8 +7,4 @@ name: ItonNote
 plugin-type: plugin
 title: $:/plugins/linonetwo/itonnote
 type: application/json
-<<<<<<< HEAD
-version: 1.0.1
-=======
-version: 1.0.7
->>>>>>> bfb77b6 (Commit with Git-Sync-JS)
+version: 1.0.9

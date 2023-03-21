@@ -1,3 +1,4 @@
+author: tiddlywiki
 dependents: $:/plugins/tiddlywiki/codemirror-mode-css
 description: Autocompletion for CodeMirror
 list: readme

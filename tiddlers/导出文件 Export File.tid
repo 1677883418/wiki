@@ -1,0 +1,11 @@
+description: 导出文件 Export File
+extension: 
+tags: $:/tags/Exporter
+title: 导出文件 Export File
+tmap.id: 71415d55-299b-4a8f-a20a-cb67d1417473
+type: text/vnd.tiddlywiki
+
+\define renderContent()
+{{{ $(exportFilter)$ ||$:/core/templates/plain-text-tiddler}}}
+\end
+<<renderContent>>
