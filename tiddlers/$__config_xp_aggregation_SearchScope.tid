@@ -1,6 +1,6 @@
 created: 20230312164153600
-modified: 20230312165156003
+modified: 20230321165040509
 title: $:/config/xp/aggregation/SearchScope
 type: text/vnd.tiddlywiki
 
-[tag<aggregationTag>sort[]search<userInput>]
+[tag<aggregationTag>sort[]search:*<userInput>]
