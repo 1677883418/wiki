@@ -1,0 +1,8 @@
+created: 20230310171948252
+creator: fatSheep
+modified: 20230312144507261
+modifier: fatSheep
+title: $:/themes/tiddlywiki/vanilla/metrics/storyleft
+type: text/vnd.tiddlywiki
+
+calc({{$:/xp/leftopentab/metrics/width}} + {{$:/xp/leftopentab/metrics/storyleft}} - {{$:/xp/leftopentab/metrics/storyriverpaddingleft}})
