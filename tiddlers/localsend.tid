@@ -1,0 +1,25 @@
+caption: localsend
+color: 
+created: 20230321181658032
+description: 局域网传输软件，基本支持全平台(至少包括Android，Linux，window)
+modified: 20230321182642219
+moscow: S
+purpose: 文件传输
+tags: Software [[Should have]] Android Linux Windows
+title: localsend
+tmap.id: cb7eb506-63e1-4d5d-be80-39ea8ddceb92
+type: text/vnd.tiddlywiki
+url: https://localsend.org/
+
+{{!!description}}
+
+
+>Share files to nearby devices.
+
+>Free, open source, cross-platform
+
+>分享文件到附近的设备。
+
+>免费、开放源代码、跨平台
+
+个人体验良好，Android，Linux，window使用效果都很不错，推荐常备
