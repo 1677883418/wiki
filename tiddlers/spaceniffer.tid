@@ -1,0 +1,15 @@
+caption: Space Sniffer
+color: 
+created: 20230322085239823
+description: win下一款磁盘清理软件，会用区块大小直观展示目录占用情况
+modified: 20230322090530905
+moscow: S
+purpose: 磁盘清理|文件管理
+tags: Software [[Should have]] Windows
+title: spaceniffer
+tmap.id: f34a37b3-d36f-4ebd-a7f4-8f226f106f72
+type: text/vnd.tiddlywiki
+url: www.uderzo.it/main_prodects/space_sniffer
+
+{{!!description}}
+''2016年停止更新，现在更推荐使用[[WizTree]]''

@@ -1,6 +1,6 @@
 color: #00ff00
 created: 20230312143843276
-modified: 20230322023757596
+modified: 20230322044453275
 tags: 考研 专业课
 title: 考研408
 tmap.id: 989b2773-1aef-4471-b795-0576d8a75c65
@@ -8,7 +8,7 @@ tmap.style: {}
 type: text/vnd.tiddlywiki
 
 
-<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="caption" levels="2" graphTitle="The Barin View" $height="100%" />
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="caption" levels="2" graphTitle="The Barin View" $height="500px" />
 
 
 ! 导读
