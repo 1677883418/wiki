@@ -1,0 +1,8 @@
+created: 20230322171156455
+modified: 20230322171255807
+tags: 
+title: PluginsSize
+tmap.id: 153b7a56-e7d1-42c5-ac80-5602fa9dc31e
+type: text/vnd.tiddlywiki
+
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/PluginsSize" $height="500px"/>
