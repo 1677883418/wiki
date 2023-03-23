@@ -1,0 +1,19 @@
+caption: {{$:/language/fishing/select}}
+condition: [<targetTiddler>tag[?]]
+created: 20230322175509594
+description: {{$:/language/fishing/selecttip}}
+icon: $:/plugins/oflg/fishing/icons/select
+modified: 20230322175509594
+shortcuts: ((fishing-select))
+tags: $:/tags/EditorToolbar
+title: $:/plugins/oflg/fishing/buttons/editortoolbar/select
+type: text/vnd.tiddlywiki
+
+<$action-sendmessage
+    $message="tm-edit-text-operation"
+    $param="wrap-selection"
+    prefix='<<?s """
+'
+    suffix='
+""">>'
+/>
