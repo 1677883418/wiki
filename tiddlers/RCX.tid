@@ -1,0 +1,21 @@
+caption: RCX
+created: 20230323174540873
+description: 基本可以看作[[Rclone]]的安卓客户端
+modified: 20230323175736330
+moscow: s
+purpose: webdav|网盘挂载
+tags: Software [[Should have]] Android
+title: RCX
+tmap.id: cf8d096a-b9e6-4cac-8c92-e113f849216c
+type: text/vnd.tiddlywiki
+url: https://github.com/x0b/rcx
+
+{{!!description}}
+
+
+*地址
+
+**{{!!url}}
+
+
+暂无汉化，但软件本身文本量并不大，可以结合翻译食用

@@ -1,0 +1,31 @@
+caption: rclone
+color: 
+created: 20230323173147737
+description: 挂载webdav到你的本地，与alist结合可以可以实现本地播放网盘视频，开机挂载等效果
+modified: 20230323174533637
+moscow: S
+purpose: webdav|网盘挂载
+tags: Software [[Should have]] Windows Linux
+title: Rclone
+tmap.id: 790acb39-e0de-488d-b960-a648d9369579
+type: text/vnd.tiddlywiki
+url: https://rclone.org/
+
+{{!!description}}
+
+
+---
+
+* 官方地址:
+
+**{{!!url}}
+
+* 中文站地址(似乎在出售域名，后期内容可能会变)
+
+**https://rclone.cn/
+
+Window,Linux都可以直接使用
+
+安卓需要使用第三方客户端[[RCX]](当时找了很久很久才找到的软件)
+
+Windows下可以使用，但由于win下cmd操作相对不便，更推荐使用[[RaiDrive]]
