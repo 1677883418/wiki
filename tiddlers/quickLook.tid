@@ -1,0 +1,15 @@
+caption: quickLook
+color: 
+created: 20230328173152296
+description: 唯一的功能就是不需要打开文件就可以看到预览效果,只需要按下空格即可
+modified: 20230328173546287
+moscow: S
+purpose: 快速预览|速度快
+tags: Software [[Should have]] Windows 系统
+title: quickLook
+tmap.id: 5e55ce86-ccc6-4778-8c46-df351f0eae94
+type: text/vnd.tiddlywiki
+url: https://github.com/QL-Win/QuickLook
+
+{{!!description}}
+

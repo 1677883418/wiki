@@ -1,5 +1,5 @@
 created: 20230322045210511
-modified: 20230322050047145
+modified: 20230329114327597
 tags: 考研408 计算机组成原理
 title: 计算机组成原理
 tmap.id: 7cf8cbed-12bf-4341-b18e-c7f9587084ba
@@ -7,6 +7,9 @@ type: text/vnd.tiddlywiki
 
 ! 计算机组成原理
 ---
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="计算机组成原理" levels="2" graphTitle="计算机组成原理" $height="500px" />
+
+
 !!概要
 * 考察方向：计算机组成原理主要涉及计算机硬件组成和工作原理。教学重点在于了解计算机系统的结构、功能和性能等方面。可以考察以下方向：
 
@@ -20,3 +23,12 @@ type: text/vnd.tiddlywiki
 
 ---
 !!目录索引
+* [[计算机系统概述]]
+* [[数据的表示和运算]]
+* [[存储系统]]
+* [[指令系统]]
+* [[中央处理器]]
+* [[总线]]
+* [[输入/输入系统]]
+!!汇总
+{{计算机系统概述}}

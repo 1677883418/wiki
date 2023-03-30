@@ -1,0 +1,15 @@
+caption: a software
+color: 
+created: 20230323053912938
+description: 异地组网软件,可以组成虚拟局域网,解决没有公网ip的问题
+modified: 20230326062403313
+moscow: S
+purpose: 异地组网|内网穿透
+tags: Software [[Should have]]
+title: zerotier
+tmap.id: 69ac45f2-6f2c-48fe-9fe2-701a76847798
+type: text/vnd.tiddlywiki
+url: 
+
+{{!!description}}
+

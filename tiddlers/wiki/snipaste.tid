@@ -1,0 +1,19 @@
+caption: snipaste
+color: 
+created: 20230330025909888
+description: Win下比较好用的截图软件,
+modified: 20230330030556012
+moscow: S
+purpose: 截图
+tags: Software [[Should have]] Windows macOS 办公
+title: snipaste
+tmap.id: c0ea1a2f-d7e9-4802-b15e-08d98894e091
+type: text/vnd.tiddlywiki
+url: https://www.snipaste.com/
+wysiwyg: yes
+
+{{undefined}}
+
+> Free. Customizable. Portable
+
+没有linux版本,建议linux下使用[[flameshot]]作为替代

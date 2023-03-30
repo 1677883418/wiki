@@ -1,0 +1,21 @@
+caption: flameshot
+color: 
+created: 20230330030401677
+description: 火焰截图,Linux好用的截图软件
+modified: 20230330031510074
+moscow: S
+purpose: 截图
+tags: Software [[Should have]] Linux Windows macOS
+title: flameshot
+tmap.id: 10c2ccd6-7624-47a7-8309-10afab32f33a
+type: text/vnd.tiddlywiki
+url: https://flameshot.org/
+
+{{!!description}}
+*优点
+	**功能强大,开源并且历史悠久
+	**可以使用命令调用,linux下使用方便
+*缺点
+	**界面比较"复古",相对来说比较素
+	
+Linux下截图软件还推荐[[deepin-screenshot]]

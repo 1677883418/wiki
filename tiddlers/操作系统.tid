@@ -1,12 +1,14 @@
 created: 20230322045754195
-modified: 20230322045939850
-tags: 操作系统 考研408
+modified: 20230329123255823
+tags: 考研408
 title: 操作系统
 tmap.id: 6b5d2d8a-73ad-457e-88a0-e11659e18125
 type: text/vnd.tiddlywiki
 
 !操作系统
 ---
+<$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="caption" levels=2 focussedTiddler="操作系统" graphTitle="操作系统" $height="500px"/>
+
 !概要
 * 考察方向：操作系统主要涉及操作系统的设计、实现和使用。教学重点在于操作系统的相关原理和技术。可以考察以下方向：
 ** 进程管理：进程、线程、进程调度、同步、互斥、死锁等；
@@ -15,4 +17,11 @@ type: text/vnd.tiddlywiki
 ---
 * 作用：操作系统是计算机科学的核心课程之一。掌握操作系统的相关知识和技术，可以帮助学生了解操作系统的基本原理和运行机制，从而更好地进行软件开发和系统维护。
 ---
+
+
 !!目录索引
+*[[计算机系统概述]]
+*[[进程与线程]]
+*[[内存管理]]
+*[[文件管理]]
+*[[输入/输出(I/O)管理]]
